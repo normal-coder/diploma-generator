@@ -10,4 +10,4 @@ Copyright (c) 2006-2014 http://normalcoder.com All rights reserved.
 
 
 ###效果：
-<img src="jiangzhuang.png">
+![https://github.com/normal1017/diploma-generator/blob/master/jiangzhuang.png](https://github.com/normal1017/diploma-generator/blob/master/jiangzhuang.png)
