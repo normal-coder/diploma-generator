@@ -1,4 +1,4 @@
-##基于PHP GD库制作的奖状生成器
+## 基于PHP GD库制作的奖状生成器
 
 Date: 2016-05-26
 
@@ -9,5 +9,6 @@ Remark:素材来源于网络，如有侵权。请联系作者删除
 Copyright (c) 2006-2014 http://normalcoder.com All rights reserved.
 
 
-###效果：
-![https://github.com/normal1017/diploma-generator/blob/master/jiangzhuang.png](https://github.com/normal1017/diploma-generator/blob/master/jiangzhuang.png)
+### 效果
+
+![奖状](./jiangzhuang.png)
